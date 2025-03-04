@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Doosa</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **learning React**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **.Net Core, Angular and Laravel**
 
