@@ -1,3 +1,4 @@
+<div style="background-color:#33d7e4"></div>
 <h1 align="center">Hi 👋, I'm Sagar Doosa</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
